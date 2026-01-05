@@ -96,14 +96,3 @@ query {
 └── pom.xml
 ```
 
-## Auteur
-- **Nom** : [Votre Nom]
-- **Statut** : Étudiant
-- **Contact** : [Votre Email]
-
-## Remerciements
-Merci à l’équipe pédagogique et à la communauté Spring pour la documentation et le support.
-
----
-> _Projet réalisé dans le cadre d’un apprentissage universitaire sur les technologies Java, Spring Boot et GraphQL._
-
